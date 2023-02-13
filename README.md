@@ -3,11 +3,17 @@
 ## Plugins
 
 **Elementor**
+
 **JetPack**
+
 **DreamShield**
+
 **Lets's Encrypt SSL**
+
 **Custom MX Mail**
+
 **FTP**
+
 **DB**
 
 ## Shopify e-commerce Websites
